@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div>
+  <h1>About</h1>
+  <p>I am Sisinomali Nkosi doing second year in IT(Software Development)</p>
+</div>
 <!--
 **Ccy2024/Ccy2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
