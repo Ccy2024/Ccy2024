@@ -2,7 +2,7 @@
 
 <div>
   <h1>About</h1>
-  <p>I am Sisinomali Nkosi doing  my final year in IT(Software Development)</p>
+  <p>I am Sisinomali Nkosi, a recently qualified IT graduate specializing in Software Development. I have strong skills in C#, Python, JavaScript, HTML, CSS, SQL Server, and ASP.NET Core.</p>
 </div>
 <!--
 **Ccy2024/Ccy2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
